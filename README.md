@@ -24,3 +24,17 @@ date || credit || debit || balance
 13/01/2023 || 2000.00 || || 3000.00
 10/01/2023 || 1000.00 || || 1000.00
 ```
+
+### Install dependencies
+
+```
+npm install
+```
+
+### Test
+
+```
+jest
+```
+
+
