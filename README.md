@@ -36,5 +36,8 @@ npm install
 ```
 jest
 ```
+### Screenshot of the app working
+
+![image](https://user-images.githubusercontent.com/107935884/198044431-a8596836-2996-4830-a952-f31b28746015.png)
 
 
